@@ -195,7 +195,7 @@ public class Ödev6 {
                      
                      
                         
-                        // FERMAT SAYISI   
+                        // FERMAT SAYISI      6.94
                      /*
                      Scanner input = new Scanner(System.in);
                     System.out.println("Bir sayi giriniz..."); 
@@ -211,7 +211,7 @@ public class Ödev6 {
                     
                     
                      
-                       //     LEYLAND SAYISI     
+                       //     LEYLAND SAYISI       6.95
                      /*
                      Scanner input = new Scanner(System.in);
                     System.out.println("Birinci sayiyi giriniz...."); 
@@ -326,7 +326,7 @@ public class Ödev6 {
                   
                     
                     
-                               //  HETEROMETRİK SAYİ
+                               //  HETEROMETRİK SAYİ          6.102
                        /*        
                       Scanner input = new Scanner(System.in);
                     System.out.println("Bir sayi giriniz..."); 
@@ -341,7 +341,7 @@ public class Ödev6 {
                        
                        
                      
-                              //   ORE SAYİSİ ***************************** 
+                              //   ORE SAYİSİ *****************************    6.103
                        /*       
                       Scanner input = new Scanner(System.in);
                      System.out.println("Bir sayi giriniz...");
@@ -366,7 +366,7 @@ public class Ödev6 {
                               
                               
                               
-                              //    MARKOV SAYİLARİ
+                              //    MARKOV SAYİLARİ          6.104
                             /* 
                           Scanner input = new Scanner(System.in);
                         for (int x = 1; x <= 50; x++) {
@@ -383,7 +383,7 @@ public class Ödev6 {
                           
                           
                     
-                             //   POLİNDROM SAYİ
+                             //   POLİNDROM SAYİ             6.106
                          /*    
                         for (int x = 1; x <= 9;x++ ) {
                             for (int y = 0; y <= 9;y++ ) {
@@ -400,7 +400,7 @@ public class Ödev6 {
                          
                          
                          
-                             //   KLAVYEDEN GİRİLEN BASAMAK SAYISINA GÖRE POLİNDROM SAYISININ TOPLAMI
+                             //   KLAVYEDEN GİRİLEN BASAMAK SAYISINA GÖRE POLİNDROM SAYISININ TOPLAMI      6.107
                          /* 
                          Scanner input = new Scanner(System.in);
                        System.out.println("Basamak degerini giriniz...");  
@@ -413,12 +413,12 @@ public class Ödev6 {
                          
                          
                          
-                         //     EULERİAN SAYİSİ
+                         //     EULERİAN SAYİSİ      6.108
                          
                          
                          
                          
-                         // ÜÇGENSEL SAYİ 
+                         // ÜÇGENSEL SAYİ       6.109
                       /*   
                        Scanner input = new Scanner(System.in);
                      System.out.println("Bir sayi giriniz...");
@@ -433,7 +433,7 @@ public class Ödev6 {
                       
                       
                          
-                         //  KARE ÜÇGENSEL SAYI
+                         //  KARE ÜÇGENSEL SAYI        6.110
                      /*    
                      Scanner input = new Scanner(System.in);
                     System.out.println("Bir sayi giriniz...");   
@@ -454,7 +454,7 @@ public class Ödev6 {
                      
                      
                      
-                       //  FİBONACCİ SAYİSİ
+                       //  FİBONACCİ SAYİSİ         6.111
                      /*  
                     Scanner input = new Scanner(System.in);
                   System.out.println("Bir sayi giriniz...");  
@@ -476,7 +476,7 @@ public class Ödev6 {
                      
                      
                      
-                     // BASAMAKTOPLAMI FİBONAACCİ OLAN 0-99 ARASI TAMSAYİLAR  
+                     // BASAMAKTOPLAMI FİBONAACCİ OLAN 0-99 ARASI TAMSAYİLAR       6.112
                      /*  
                     for (int i = 0; i < 9; i++) {
                           for (int j = 0; j < 9; j++) {
@@ -492,7 +492,7 @@ public class Ödev6 {
                      
                      
                      
-                        // GİRİLEN TERİN SAYISINA GÖRE FİBONACCİ ASALLARINI BULMA  
+                        // GİRİLEN TERİN SAYISINA GÖRE FİBONACCİ ASALLARINI BULMA      6.113
                         /*      
                        Scanner input = new Scanner(System.in);
                       System.out.println("Bir sayi giriniz..."); 
@@ -525,7 +525,7 @@ public class Ödev6 {
                         
                         
                         
-                       // NEGAFİBONACCİ SAYILARI
+                       // NEGAFİBONACCİ SAYILARI          6.114
                      /*  
                      Scanner input = new Scanner(System.in);
                     System.out.println("Bir sayi giriniz...");
@@ -546,7 +546,7 @@ public class Ödev6 {
                      
                      
                      
-                         //  TRİBONACCİ SAYİSİ,
+                         //  TRİBONACCİ SAYİSİ,        6.115
                        /*  
                        Scanner input = new Scanner(System.in);
                      System.out.println("Bir sayi giriiniz...");
@@ -582,7 +582,7 @@ public class Ödev6 {
                      
                      
                      
-                     //  PİSAGOR ÜÇLEMESİ  ************************************
+                     //  PİSAGOR ÜÇLEMESİ  ************************************        6.120
                      /*
                     Scanner input = new Scanner(System.in);
                    System.out.println("Lutfen bir sayi giriniz...");
